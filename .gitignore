@@ -2,6 +2,8 @@ venv/
 .vscode/
 __pycache__/
 test.db
+Pipfile
+Pipfile.lock
 
 # OS generated files #
 ######################
